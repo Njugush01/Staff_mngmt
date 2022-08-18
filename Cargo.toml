@@ -1,7 +1,7 @@
 [package]
-name = "rust-template"
+name = "Staff_mngmt"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
+authors = ["Elvis Njuguna"]
 edition = "2018"
 
 [lib]
